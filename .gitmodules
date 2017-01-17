@@ -1,0 +1,15 @@
+[submodule "SmartThingsCommunity/SmartThingsPublic"]
+	path = forks/SmartThingsCommunity/SmartThingsPublic
+	url = ../SmartThingsCommunity.SmartThingsPublic.git
+[submodule "twack/smarthings-apps"]
+	path = forks/twack/smarthings-apps
+	url = ../twack.smarthings-apps
+[submodule "adampv/smartthings"]
+	path = forks/adampv/smartthings
+	url = ../adampv.smartthings
+[submodule "erocm123/SmartThingsPublic"]
+	path = forks/erocm123/SmartThingsPublic
+	url = ../erocm123.SmartThingsPublic
+[submodule "MichaelStruck/SmartThingsPublic"]
+	path = forks/MichaelStruck/SmartThingsPublic
+	url = ../MichaelStruck.SmartThingsPublic
