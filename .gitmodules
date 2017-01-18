@@ -13,3 +13,6 @@
 [submodule "MichaelStruck/SmartThingsPublic"]
 	path = forks/MichaelStruck/SmartThingsPublic
 	url = ../MichaelStruck.SmartThingsPublic
+[submodule "forks/pmckinnon/smartthings"]
+	path = forks/pmckinnon/smartthings
+	url = ../pmckinnon.smartthings
