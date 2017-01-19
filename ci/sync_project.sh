@@ -10,3 +10,7 @@ git add .
 git commit -m "Compiled parent repo: https://gitlab.com/smartish-home/patrick"
 git remote add github "git@github.com:smartish-home/patrick.git"
 git push github deploy:master --force
+
+# Because SmartThings github integration is fucking stupid...
+git remote add pmckinnon "git@github.com:pmckinnon/SmartThingsPublic.git"
+git push pmckinnon deploy:master --force

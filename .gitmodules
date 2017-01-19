@@ -18,4 +18,4 @@
 	url = ../pmckinnon.smartthings
 [submodule "forks/bravenel/SmartThings"]
 	path = forks/bravenel/SmartThings
-	url = git@gitlab.com:smartish-home/bravenel.SmartThings.git
+	url = ../bravenel.SmartThings.git
