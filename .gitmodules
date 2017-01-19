@@ -16,3 +16,6 @@
 [submodule "forks/pmckinnon/smartthings"]
 	path = forks/pmckinnon/smartthings
 	url = ../pmckinnon.smartthings
+[submodule "forks/bravenel/SmartThings"]
+	path = forks/bravenel/SmartThings
+	url = git@gitlab.com:smartish-home/bravenel.SmartThings.git
