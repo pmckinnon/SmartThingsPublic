@@ -1,0 +1,1 @@
+../../../forks/KristopherKubicki/device-yamaha-rx/device-type-yamaha-rx.groovy

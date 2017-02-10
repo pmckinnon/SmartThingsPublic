@@ -19,3 +19,6 @@
 [submodule "forks/bravenel/SmartThings"]
 	path = forks/bravenel/SmartThings
 	url = ../bravenel.SmartThings.git
+[submodule "forks/KristopherKubicki/device-yamaha-rx"]
+	path = forks/KristopherKubicki/device-yamaha-rx
+	url = ../KristopherKubicki.device-yamaha-rx
